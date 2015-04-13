@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 05 16:12:59 CEST 2015
+google-play-services-23.0.0.jar>=
+google-play-services-23.0.0-sources.jar>=
+google-play-services-23.0.0.pom>=
+google-play-services-23.0.0.apklib>=
+google-play-services-23.0.0-javadoc.jar>=
